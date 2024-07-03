@@ -1,4 +1,5 @@
-# Aplicação Java com Spring Boot e Apache Camel
+# Red Hat Training
+## Aplicação Java com Spring Boot e Apache Camel
 
 ## Descrição
 
